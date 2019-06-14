@@ -1,0 +1,19 @@
+{
+  "name": "webpack-start-use",
+  "version": "1.0.0",
+  "description": "After a few years of using webpack, I want to learn more about webpack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KellyEsposito/webpack-start-use.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KellyEsposito/webpack-start-use/issues"
+  },
+  "homepage": "https://github.com/KellyEsposito/webpack-start-use#readme"
+}
